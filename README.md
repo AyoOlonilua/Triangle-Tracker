@@ -1,10 +1,11 @@
-# Calculator
+# Triangle Tracker
 By AYO-OLONILUA AYOMIPE
 
 # TECHNOLOGIES USED
 
 - HTML
 - CSS
+- Bootstrap
 - Javascript
 
 # Known Bugs
@@ -13,7 +14,7 @@ By AYO-OLONILUA AYOMIPE
 
 # Description
 
-It is used for calculating integers i.e Addition, Subtraction, Division, Multiplication etc.
+It is used for checking for the different sides of a triangle.
 
 # Setup/Installation Requirements
 
