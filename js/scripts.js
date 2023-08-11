@@ -14,12 +14,6 @@ $(document).ready(function() {
         else if (side1 > side2 || side1 > side3 || side2 > side3)  {
             $("#sides").text("This is a Scalene triangle");
        } 
-        else {
-            $("#sides").text("This is not a triangle");
-       }
-    
-    e.preventDefault();
-
     })
 
 });
