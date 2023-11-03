@@ -3,7 +3,10 @@
 * {
     font-family: 'Roboto', sans-serif;
 }
-.sides {
-  background-image: url(/img/triangle-logo-template-137738755.webp);
-  background-position: -100px;
+.background img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    top: 0;
 }
